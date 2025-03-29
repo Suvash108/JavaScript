@@ -19,3 +19,5 @@ console.log(myobj["email"])
 
 console.log(tinderuse)
 console.log(meraboj)
+
+console.log("hyello lahayelauylakuch bhi karna ka mn nhi kararahahah yaar ")
